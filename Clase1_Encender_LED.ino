@@ -7,7 +7,8 @@ void setup () {
 }
 
 void loop() {
-digitalWrite(LED, HIGH); //encendemos el LED
-delay(500); //espera 1/2 segundo (500 milisegundos)
-digitalWrite(LED, LOW); //apagamos el LED
-delay(500); //espera 1/2 segundo (500 milisegundos)
+  digitalWrite(LED, HIGH); //encendemos el LED
+  delay(500); //espera 1/2 segundo (500 milisegundos)
+  digitalWrite(LED, LOW); //apagamos el LED
+  delay(500); //espera 1/2 segundo (500 milisegundos)
+}
